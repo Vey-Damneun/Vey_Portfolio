@@ -6,8 +6,9 @@ Example of Data Science/AI &amp; Machine Learning projects<br>
 Using the dataset, find the factors that influence price negotiations while buying a house.
 There are 79 explanatory variables describing every aspect of residential homes in Ames, Iowa.</p>
 
-[]([https://www.example.com](https://github.com/Vey-Damneun/Vey_Portfolio/blob/main/images/output_110_2.png))
-
+![](https://github.com/Vey-Damneun/Vey_Portfolio/blob/main/images/output_110_2.png)
+![](https://github.com/Vey-Damneun/Vey_Portfolio/blob/main/images/output_120_0.png)
+![](https://github.com/Vey-Damneun/Vey_Portfolio/blob/main/images/output_69_1.png)
 
 
 # [Lab: Survival of Titanic Passengers](https://github.com/Vey27/AI---Machine-Learning/blob/main/TitanicSurvival.md)
